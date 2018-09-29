@@ -1,6 +1,6 @@
 # DanTup / speedtest
 
-A simple Docker container to simplify running speed tests on Raspberry Pi (via speedtest_cli) without installing dependencies directly on your machine.
+A simple Docker container to simplify running speed tests on Raspberry Pi (using speedtest_cli) without installing dependencies directly on your machine.
 
 To run:
 
